@@ -1,6 +1,49 @@
 
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-logo="" group-title="* BDIX00",JAMUNA TV
+#EXTM3U
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=colorsbangla
+http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=1d3a04a02d798a005095b447d563ec1238e8801d-476b5662d00c8b7a87631e026bd30a78-1617616151-1617605351
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name= Star-Jalsha
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=04ce473c7ba87ac069b6961b648d7294e52cbee1-1ee769f1b0e0468e196db0c82e0aba65-1617616312-1617605512
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=Jalshamovies
+http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=e6e8641ae57b4f2e9ce159571657b2e1a6f7a2c8-fd6c799f5b7d6bb1984071c93b31a718-1617617137-1617606337
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=ZeeBanglacinema
+http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/2021/04/05/06/57/57-05280.ts?token=7aa736bc820bd5c4757cdf015853175a7e20b21a-56523ee3e1fc74af088b32c27914c68e-1617616353-1617605553
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=Sonyaath
+http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=40102b96c65ac630503a30916e1f459b0ecf4e80-f6647fb1c3caca6f955c61ef61d54129-1617616417-1617605617
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=SangeetBangla
+http://stream.amrbd.com:8082/SangeetBangla/tracks-v1a1/mono.m3u8?token=d67877335673670515eb146b85cac757f6b2ac56-b05cdea8c5dd9781fcb2f9e5c95f8a2a-1617617211-1617606411
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=Duronto_TV
+http://stream.amrbd.com:8082/Duronto_TV/tracks-v1a1/mono.m3u8?token=dd4a65067edd6b74e6b25ec917f1e15db30f923a-e237a2dc8311ff35bd6388f77411d810-1617617351-1617606551
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=AsianTV
+http://stream.amrbd.com:8082/AsianTV/tracks-v1a1/mono.m3u8?token=59cd13f6c7d7d81f8fb0de0615819f534207bfcc-26346c45211715d163c2eaa28779ead8-1617617432-1617606632
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=Deepto-TV
+http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8?token=99355b0e8d1a8ebdb4e1a128cd2eae177674bf36-1841c448e9bb08f1a939bc4e535ad454-1617617465-1617606665
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=Sony-Max
+http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=38e849509ebbe6c0e57da589b14177f9b7c6cc02-9681348942b16659862530aa89e7c098-1617617507-1617606707
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=colorsindia
+http://stream.amrbd.com:8082/colorsindia/tracks-v1a1/mono.m3u8?token=79df022e54b9cb25a5861958fb1c058bb34e3dda-9650c51742eebef4a5025c2b07f03b79-1617617552-1617606752
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=Star_Plus
+http://stream.amrbd.com:8082/Star_Plus/tracks-v1a1/mono.m3u8?token=ae0cc3017c0909bd5648b2afb791f8993e8b639f-7778ce69ed4b642809680f360e54ab5b-1617617582-1617606782
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=StarGold
+http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8?token=510d75bfa9796180c019d73e126d6cf2b9d632af-3f4430d41924b7454f58bfff2f71097e-1617617633-1617606833
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=ZeeAction
+http://stream.amrbd.com:8082/ZeeAction/tracks-v1a1/mono.m3u8?token=1b527a23b46531a4a0aad3be7dbbc4f84b469f32-cdbc4b066d7109b5a79c4d16d94090e2-1617617669-1617606869
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=ZeeCinemaHD
+http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=d1f70e186e83aaad936ecde9b7899057752de3b8-27088059c29b6c254d2d9daccc6206d8-1617617700-1617606900
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=ten3
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=f8201ab07dbce20b78404b85dca31a1e1f7b1ea2-9c754a2d7795d21f7b13de08250a6e4c-1617617733-1617606933
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=Ten3HD
 http://stream.amrbd.com:8082/Ten3HD/tracks-v1a1/mono.m3u8?token=9988b85f1b0f29f48ac4266f4aec8876fc992451-adfbf3d029d10a3ac09591a230619d74-1617614808-1617604008
-#EXTINF:-1 tvg-logo="" group-title="* BDIX00", Remon Tv
-http://stream.amrbd.com/play.php?stream=SangeetBangla
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=Bein
+http://stream.amrbd.com:8082/Bein/tracks-v1a1/mono.m3u8?token=22cbc601a82bcf81f9561961554e9d563f8d07fc-4b07ee4bb3def6cc7abe06a7bd47d7da-1617617810-1617607010
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=Ten1HD
+http://stream.amrbd.com:8082/Ten1HD/tracks-v1a1/mono.m3u8?token=212f103b497c01aefdf09d3aefc2cd9a0ec7ee38-ffdad8b9276d65b20dfb637a871ff296-1617617878-1617607078
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=Ten2HD
+http://stream.amrbd.com:8082/Ten2HD/tracks-v1a1/mono.m3u8?token=35bafe345d757ed9b7a48493514a908bc33933bb-bf166e6d495af8e36c828cc55a9248d9-1617617906-1617607106
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=star 1
+http://stream.amrbd.com:8082/kn1a/tracks-v1a1/mono.m3u8?token=25dcd83e3419b61bb745ec7c899fe7a19d0daf11-19d7f2e1e97a399319b128ed70c81ce4-1617617935-1617607135
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=star select1
+http://stream.amrbd.com:8082/kn3a/tracks-v1a1/mono.m3u8?token=5f27f84e1d16cba9eb75bbddc0f6bac3f2bd77c9-09b12d0e429177e8821ce340934c355e-1617618058-1617607258
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name= Remon2
+http://stream.amrbd.com:8082/kn5a/tracks-v1a1/mono.m3u8?token=e1d495accff56bb1a6d00d7f78322b3344367564-a0167be991d8ed7e63ac54718c03706b-1617618094-1617607294
