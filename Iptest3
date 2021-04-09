@@ -1,6 +1,21 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name= Star Jalsha
-http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=04ce473c7ba87ac069b6961b648d7294e52cbee1-1ee769f1b0e0468e196db0c82e0aba65-1617616312-1617605512
-http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=5a7c963ee75fa32c13801a276b6686731c7a3790-c69e2c1d62c16b6a737a8c2fadbf2f01-1617630631-1617619831
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sony max" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/147
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star jalsha" tvg-logo="https://icon2.cleanpng.com/20180530/ryk/kisspng-star-jalsha-jalsha-movies-star-india-television-ch-jalsha-movies-5b0e9a59a35f31.9595129715276836736692.jpg
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/863
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star jalsha" tvg-logo="https://icon2.cleanpng.com/20180530/ryk/kisspng-star-jal
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/193
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="colors bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/106
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="star gold" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/161
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" Tsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
+http://diamondiptv.ddns.net:25461/lFT824pcgo/xmhYHChzWx/787
