@@ -1,2 +1,82 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="71 TV" tvg- group-title="Bangla News",71 TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/11.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg- group-title="INDIA Bangla",Sony Aath
+http://tvserver3.roarzone.info:25461/live/free/roarzone/33.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg- group-title="Shows & Series",Star Jalsha HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/30.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Shows & Series",Zee Bangla Cinema [IN]
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Colors Bangla HD (2)" tvg- group-title="INDIA Bangla",Colors Bangla HD (2)
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Bangla" tvg- group-title="Bangla News",ATN Bangla
+http://tvserver3.roarzone.info:25461/live/free/roarzone/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN NEWS" tvg- " group-title="Bangla News",ATN NEWS
+http://tvserver3.roarzone.info:25461/live/free/roarzone/49.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BANGLA TV" tvg- group-title="Bangla News",BANGLA TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/19.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangla News",Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 24" tvg- group-title="Bangla News",Channel 24
+http://tvserver3.roarzone.info:25461/live/free/roarzone/5.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg- group-title="Bangla News",Channel I
+http://tvserver3.roarzone.info:25461/live/free/roarzone/6.m3u8
 
-#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC NEWS" tvg- group-title="Bangla News",DBC NEWS
+http://tvserver3.roarzone.info:25461/live/free/roarzone/7.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangla News",Eekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="INDEPENDENT TV" tvg- group-title="Bangla News",INDEPENDENT TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/12.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangla News",itv
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg- " group-title="Bangla News",Jamuna Tv
+http://tvserver3.roarzone.info:25461/live/free/roarzone/13.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nandan Tv" tvg-logo="https://play-lh.googleusercontent.com/m7UvZLUj76Gv2Rwvbk1sKYk6ra6zWWmQGkJMCMZtvUME59BH76vU4ScIY0L_qw_qHA" group-title="Bangla News",Nandan Tv
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NEWS 24" tvg-  group-title="Bangla News",NEWS 24
+http://tvserver3.roarzone.info:25461/live/free/roarzone/18.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg- group-title="Bangla News",NTV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/54.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg- group-title="Bangla News",RTV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/14.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SATV" tvg- group-title="Bangla News",SATV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/15.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SOMOY TV" tvg- group-title="Bangla News",SOMOY TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/17.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="28.Deshi TV" tvg- group-title="Bangladesh",28.Deshi TV
+http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangladesh",BOISHAKHI TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel T1" tvg- group-title="Bangladesh",Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="EKUSHEY TV (1)" tvg- group-title="Bangladesh",EKUSHEY TV (1)
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Times24" tvg- group-title="Bangladesh",Times24
+http://cdn.priyoiptv.com:1932/priyoiptv/times24tv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg- group-title="Sports",Channel 9
+http://tvserver3.roarzone.info:25461/live/free/roarzone/4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAASRANGA TV" tvg- group-title="Sports",MAASRANGA TV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/51.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gazi tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Sports",Gazi tv
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY SIX HD" tvg- group-title="Sports",SONY SIX HD
+http://tvserver3.roarzone.info:25461/live/free/roarzone/24.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1" tvg- group-title="Sports",SONY TEN 1
+http://tvserver3.roarzone.info:25461/live/free/roarzone/20.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 2" tvg- group-title="Sports",SONY TEN 2
+http://tvserver3.roarzone.info:25461/live/free/roarzone/21.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HINDI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest?cb=20171105031607" group-title="Sports",STAR SPORTS HINDI
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAND SP HD BR" tvg- group-title="Sports",BAND SP HD BR
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6159/index.m3u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAND SPORTS HD BR" tvg- group-title="Sports",BAND SPORTS HD BR
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6157/index.m3u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 1 HD NL" tvg-  group-title="Sports",FOX Sports 1 HD NL
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2552/index.m3u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 2 HD NL" tvg- group-title="Sports",FOX Sports 2 HD NL
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2553/index.m3u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX Sports 4 HD NL" tvg- group-title="Sports",FOX Sports 4 HD NL
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2554/index.m3u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Golf TV HD" tvg- group-title="Sports",Golf TV HD
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6393/index.m3u
